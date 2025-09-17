@@ -1,5 +1,10 @@
 # Laravel Auth Package Discovery Fix
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/yekta/laravel-auth-package-discovery-fix.svg)](https://packagist.org/packages/yekta/laravel-auth-package-discovery-fix)
+[![Total Downloads](https://img.shields.io/packagist/dt/yekta/laravel-auth-package-discovery-fix.svg)](https://packagist.org/packages/yekta/laravel-auth-package-discovery-fix)
+[![Build Status](https://github.com/YektaRoustaei/laravel-auth-package-discovery-fix/workflows/Tests/badge.svg)](https://github.com/YektaRoustaei/laravel-auth-package-discovery-fix/actions)
+[![License](https://img.shields.io/packagist/l/yekta/laravel-auth-package-discovery-fix.svg)](https://packagist.org/packages/yekta/laravel-auth-package-discovery-fix)
+
 A Laravel package that fixes the "Auth driver not defined" error that occurs during `composer install/update` when using custom authentication drivers.
 
 ## Problem
